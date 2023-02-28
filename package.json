@@ -1,5 +1,5 @@
 {
-  "name": "cypress-test",
+  "name": "rps-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.5.1"
+    "cypress": "^12.7.0"
   }
 }
